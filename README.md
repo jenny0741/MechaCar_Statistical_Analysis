@@ -1,3 +1,7 @@
 # MechaCar_Statistical_Analysis
 
-## Linear Regression to Predict MPG
+## Purpose
+
+## Results
+
+### Linear Regression to Predict MPG
