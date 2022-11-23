@@ -19,5 +19,7 @@
 Looking at the overall variance, the suspension coils meet the design specifications. However, when separating the lots individually, lot 3 exceeds the 100 pounds per square inch specification.
 
 ### T-Tests on Suspension Coils
+![Resources/Deliverable3](Resources/Deliverable3.png)
+
 
 ### Study Design: MechaCar vs Competition
