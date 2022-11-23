@@ -13,7 +13,8 @@
 3. When performing a line regression, the r-squared value should be as close to 1 as possible. Based on the multiple r-squared value (0.71) and adjusted r-squared value (0.68), the linear model predicts mpg well, but a different statistical test is recommended. 
 
 ### Summary Statistics on Suspension Coils
-
+![Resources/total_summary](Resources/total_summary.png)
+![]()
 ### T-Tests on Suspension Coils
 
 ### Study Design: MechaCar vs Competition
