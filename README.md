@@ -14,7 +14,9 @@
 
 ### Summary Statistics on Suspension Coils
 ![Resources/total_summary](Resources/total_summary.png)
-![]()
+![Resources/lot_summary](Resources/lot_summary.png)
+
+
 ### T-Tests on Suspension Coils
 
 ### Study Design: MechaCar vs Competition
