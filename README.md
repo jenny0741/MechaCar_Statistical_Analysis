@@ -5,6 +5,7 @@
 ## Results and Summary
 
 ### Linear Regression to Predict MPG
+![Resources/Deliverable1](Resources/Deliverable1.png)
 
 ### Summary Statistics on Suspension Coils
 
