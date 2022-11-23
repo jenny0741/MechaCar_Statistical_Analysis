@@ -23,6 +23,7 @@ Looking at the overall variance, the suspension coils meet the design specificat
 
 Performing a t-test on the entire lot, the p-value > 0.05, indicating that the correlation is not significant and the null hypothesis cannot be rejected. Based on the t-value, there is a small confidence level, which means that there is a possibility of rejecting the null. In this case, a small confidence level indicated accepting the null hypothesis.
 
+When evaluating the results from individual lots, the p-value for lots 1 and 2 fail to reject the null hypothesis, while the p-value for lot 3 rejects the null hypothesis. The confidence levels for lots 1 and 2 are smaller than the confidence level of lot 3.
 
 
 ### Study Design: MechaCar vs Competition
