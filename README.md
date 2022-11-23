@@ -16,6 +16,7 @@
 ![Resources/total_summary](Resources/total_summary.png)
 ![Resources/lot_summary](Resources/lot_summary.png)
 
+Looking at the overall variance, the suspension coils meet the design specifications. However, when separating the lots individually, lot 3 exceeds the 100 pounds per square inch specification.
 
 ### T-Tests on Suspension Coils
 
