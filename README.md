@@ -2,7 +2,7 @@
 
 ## Purpose
 
-## Results and Summary
+## Results and Design Summary
 
 ### Linear Regression to Predict MPG
 ![Resources/Deliverable1](Resources/Deliverable1.png)
