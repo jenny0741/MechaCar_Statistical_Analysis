@@ -1,6 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Purpose
+Statistical tests were performed to analyze and predict possible outcomes that would aid in the production of a new prototype product.
 
 ## Results and Design Summary
 
