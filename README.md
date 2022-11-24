@@ -27,3 +27,15 @@ When evaluating the results from individual lots, the p-value for lots 1 and 2 f
 
 
 ### Study Design: MechaCar vs Competition
+
+Comparing the horse power and highway fuel efficiency (mpg) will help market the MechaCar to potential consumers. By understanding how horsepower may affect mpg, it will help in predicting how the potential consumers may react due to the current gas prices.
+
+Dependent variable: Highway mpg
+Independent variable: Horse power
+
+Ho : There is no correlation between horse power and highway fuel efficiency.
+Ha : There is a positive correlation between horse power and highway fuel efficiency.
+
+A simple linear regression will be used to predict the dependent variable (highway mpg) utilizing the values of the independent variable (horse power). It will also help quantify and measure the variability of the two variables. 
+
+
